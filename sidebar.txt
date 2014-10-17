@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kpw:home|Door43 (kpw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kpw|d43-kpw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kpw/archive/master.zip|d43-kpw.zip]]
+
+**Recent Changes**
+{{changes>ns = kpw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kpw|Ethnologue data]]
+
